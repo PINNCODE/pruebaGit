@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dec0606-de70-47bf-b258-5ebe8261dbc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +39,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603241841641</updated>
-      <workItem from="1603241842696" duration="22000" />
+      <workItem from="1603241842696" duration="508000" />
+      <workItem from="1603243299291" duration="699000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="270" y="110" key="MergeDialog" timestamp="1603243064471">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="270" y="110" key="MergeDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1603243064471" />
+    <state x="278" y="290" key="MultipleFileMergeDialog" timestamp="1603243066020">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="278" y="290" key="MultipleFileMergeDialog/0.0.2560.1050@0.0.2560.1050" timestamp="1603243066020" />
   </component>
 </project>
